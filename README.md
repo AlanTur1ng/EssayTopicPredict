@@ -84,7 +84,7 @@ Epoch 7/100
 Epoch 8/100
 25621/25621 [==============================] - 15560s 607ms/step - loss: 0.0645 - acc: 0.9903 - val_loss: 0.0771 - val_acc: 0.9888
 ```
->![](https://github.com/ooooverflow/chinese-ocr/raw/master/demo/ocr.png)
+
 
 <br>
 
